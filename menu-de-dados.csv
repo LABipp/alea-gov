@@ -1,33 +1,55 @@
-Título,URL,Município,UF,Esfera,Poder,Solução
-Alagoas em dados e informações,http://dados.al.gov.br/,,AL,Estadual,Executivo,CKAN
-Fortaleza Dados Abertos,http://dados.fortaleza.ce.gov.br/,Fortaleza,CE,Municipal,Executivo,CKAN
-Dados abertos – TCM-CE,http://api.tcm.ce.gov.br/,,CE,Estadual,Legislativo,Interna
-Dados abertos Distrito Federal,http://www.dadosabertos.df.gov.br/,,DF,Estadual,Executivo,CKAN
-Dados abertos – Governo do ES,http://www.transparencia.es.gov.br/menu_principal/dados_abertos.asp,,ES,Estadual,Executivo,Interna
-Dados abertos – Goiás Transparente,http://www.transparencia.go.gov.br/pagina.php?id=740,,GO,Estadual,Executivo,Interna
-Dados abertos – Assembleia de Minas,http://dadosabertos.almg.gov.br/ws/ajuda/sobre,,MG,Estadual,Legislativo,Interna
-Dados abertos – Estado de MG,http://www.transparencia.mg.gov.br/dados-abertos,,MG,Estadual,Executivo,CKAN
-Dados abertos do SAGRES – TCE/PB,http://portal.tce.pb.gov.br/dados-abertos-do-sagres-tcepb/,,PB,Estadual,Legislativo,Interna
-Dados abertos – Governo de Pernambuco,http://www.dadosabertos.pe.gov.br/,,PE,Estadual,Executivo,Interna
-Dados Recife,http://dados.recife.pe.gov.br,Recife,PE,Municipal,Executivo,CKAN
-Dados Abertos Curitiba,http://www.curitiba.pr.gov.br/dadosabertos/,Curitiba,PR,Municipal,Executivo,Interna
-data.rio,http://data.rio/,Rio de Janeiro,RJ,Municipal,Executivo,CKAN
-Desafio Rio Ideias,http://ideias.rioapps.com.br/,Rio de Janeiro,RJ,Municipal,Executivo,Interna
-Rio datamine,http://riodatamine.com.br/,Rio de Janeiro,RJ,Municipal,Executivo,Interna
-Dados Geográficos Abertos da Cidade do Rio de Janeiro,http://portalgeo.pcrj.opendata.arcgis.com/,Rio de Janeiro,RJ,Municipal,Executivo,ArcGIS
-Dados RS,http://dados.rs.gov.br/,,RS,Estadual,Executivo,CKAN
-Dados abertos governamentais – Secretaria de Segurança Pública,http://www.ssp.rs.gov.br/?model=conteudo&menu=196,,RS,Estadual,Executivo,Interna
-Dados abertos Novo Hamburgo,http://dados.novohamburgo.rs.gov.br/,Novo Hamburgo,RS,Municipal,Executivo,CKAN
-DataPOA,http://www.datapoa.com.br/,Porto Alegre,RS,Municipal,Executivo,CKAN
-Governo Aberto SP,http://www.governoaberto.sp.gov.br/,,SP,Estadual,Executivo,Interna
-Programa de Dados Abertos do Parlamento,http://www.camara.sp.gov.br/transparencia/dados-abertos/,São Paulo,SP,Municipal,Legislativo,Interna
-Catálogo Municipal de Bases de Dados,http://transparencia.prefeitura.sp.gov.br/administracao/Paginas/cmbd.aspx,São Paulo,SP,Municipal,Executivo,Interna
-Dados abertos – e-cidadania,http://dadosabertos.senado.gov.br/,,,Federal,Legislativo,CKAN
-Dados abertos da Câmara dos Deputados,http://www2.camara.leg.br/transparencia/dados-abertos/,,,Federal,Legislativo,Interna
-FEE dados abertos,http://dados.fee.tche.br/,,RS,Estadual,Executivo,Interna
-Dados Abertos TCE-RS,http://dados.tce.rs.gov.br/,,RS,Estadual,Legislativo,CKAN
-Dados Abertos MPRS,http://dados.mprs.mp.br/,,RS,Estadual,,Interna
-Portal da Transparência Municipal,http://transparencia.tce.sp.gov.br/,,SP,Municipal,Legislativo,Interna
-Universidade Federal do Rio Grande do Norte - UFRN,http://dados.ufrn.br/,,RN,Nacional,Executivo,CKAN 
-Portal dos Dados Abertos TCE/RN,http://apidadosabertos.tce.rn.gov.br/,,RN,Estadual,Legislativo,Interna
-Portal de Dados Abertos da Cidade de São Paulo,http://dados.prefeitura.sp.gov.br/,São Paulo,SP,Municipal,Executivo,CKAN
+Título,Órgão,URL,Município,UF,Esfera,Poder,Solução,
+SNIS - sistema nacional de informações sobre saneamento,ministério das cidades,http://app.cidades.gov.br/serieHistorica/,,,Federal,Executivo,,
+,MS - ministério da saúde,http://dados.saude.gov.br/organization/ministerio-da-saude-ms?page=2,,,Federal,Executivo,,
+,BCB - banco central do brasil,http://dadosabertos.bcb.gov.br/,,,Federal,Executivo,,
+,CVM,http://www.cvm.gov.br/menu/acesso_informacao/dadosabertos/dadosabertos.html,,,Federal,Executivo,,
+,CEF- caixa econômica federal,,,,Federal,Executivo,,
+,TSE,http://www.tse.jus.br/transparencia/acesso-a-informacao/acesso-a-informacao,,,Federal,Judiciário,,
+,MTE - ministério do trabalho,http://trabalho.gov.br/dados-abertos,,,Federal,,,
+RAIS,MTE - ministério do trabalho,http://pdet.mte.gov.br/rais?view=default,,,,,,
+Caged,MTE - ministério do trabalho,http://pdet.mte.gov.br/caged?view=default,,,,,,
+,ANS,http://www.ans.gov.br/acesso-a-informacao/dados-abertos,,,Federal,,,Não implmentado
+,ANTT,http://www3.transparencia.gov.br/index.jsp?CodigoOrgao=39250&TipoOrgao=2&consulta=0,,,Federal,,,
+,ANATEL,http://dados.gov.br/organization/5fbc22fd-5842-4bde-b48e-669c4ec95317?tags=Anatel,,,Federal,,,
+,ANAC,http://www.anac.gov.br/assuntos/dados-e-estatisticas,,,Federal,,,
+,INFRAERO,http://www.infraero.gov.br/index.php/br/acesso-a-informacao.html,,,,,,
+,ANP,http://www.anp.gov.br/wwwanp/dados-estatisticos,,,Federal,,,
+,ANVISA,http://portal.anvisa.gov.br/dados-abertos,,,Federal,,,
+,SUSEP,http://www.susep.gov.br/menu/estatisticas-do-mercado/boletins-estatisticos,,,Federal,,,
+,ANEEL,http://www.aneel.gov.br/dados,,,Federal,,,
+,ANTAQ,http://portal.antaq.gov.br/index.php/estatisticas/,,,Federal,,,
+,CGU - Portal da Transparência,http://www.portaltransparencia.gov.br/downloads/,,,Federal,,,
+,tesouro nacional,http://www.tesourotransparente.gov.br/,,,Federal,,,
+Alagoas em dados e informações,,http://dados.al.gov.br/,,AL,Estadual,Executivo,CKAN,
+Fortaleza Dados Abertos,,http://dados.fortaleza.ce.gov.br/,Fortaleza,CE,Municipal,Executivo,CKAN,
+Dados abertos – TCM-CE,,http://api.tcm.ce.gov.br/,,CE,Estadual,Legislativo,Interna,
+Dados abertos Distrito Federal,,http://www.dadosabertos.df.gov.br/,,DF,Estadual,Executivo,CKAN,
+Dados abertos – Governo do ES,,http://www.transparencia.es.gov.br/menu_principal/dados_abertos.asp,,ES,Estadual,Executivo,Interna,
+Dados abertos – Goiás Transparente,,http://www.transparencia.go.gov.br/pagina.php?id=740,,GO,Estadual,Executivo,Interna,
+Dados abertos – Assembleia de Minas,,http://dadosabertos.almg.gov.br/ws/ajuda/sobre,,MG,Estadual,Legislativo,Interna,
+Dados abertos – Estado de MG,,http://www.transparencia.mg.gov.br/dados-abertos,,MG,Estadual,Executivo,CKAN,
+Dados abertos do SAGRES – TCE/PB,,http://portal.tce.pb.gov.br/dados-abertos-do-sagres-tcepb/,,PB,Estadual,Legislativo,Interna,
+Dados abertos – Governo de Pernambuco,,http://www.dadosabertos.pe.gov.br/,,PE,Estadual,Executivo,Interna,
+Dados Recife,,http://dados.recife.pe.gov.br,Recife,PE,Municipal,Executivo,CKAN,
+Dados Abertos Curitiba,,http://www.curitiba.pr.gov.br/dadosabertos/,Curitiba,PR,Municipal,Executivo,Interna,
+data.rio,,http://data.rio/,Rio de Janeiro,RJ,Municipal,Executivo,CKAN,
+Desafio Rio Ideias,,http://ideias.rioapps.com.br/,Rio de Janeiro,RJ,Municipal,Executivo,Interna,
+Rio datamine,,http://riodatamine.com.br/,Rio de Janeiro,RJ,Municipal,Executivo,Interna,
+Dados Geográficos Abertos da Cidade do Rio de Janeiro,,http://portalgeo.pcrj.opendata.arcgis.com/,Rio de Janeiro,RJ,Municipal,Executivo,ArcGIS,
+Dados RS,,http://dados.rs.gov.br/,,RS,Estadual,Executivo,CKAN,
+Dados abertos governamentais – Secretaria de Segurança Pública,,http://www.ssp.rs.gov.br/?model=conteudo&menu=196,,RS,Estadual,Executivo,Interna,
+Dados abertos Novo Hamburgo,,http://dados.novohamburgo.rs.gov.br/,Novo Hamburgo,RS,Municipal,Executivo,CKAN,
+DataPOA,,http://www.datapoa.com.br/,Porto Alegre,RS,Municipal,Executivo,CKAN,
+Governo Aberto SP,,http://www.governoaberto.sp.gov.br/,,SP,Estadual,Executivo,Interna,
+Programa de Dados Abertos do Parlamento,,http://www.camara.sp.gov.br/transparencia/dados-abertos/,São Paulo,SP,Municipal,Legislativo,Interna,
+Catálogo Municipal de Bases de Dados,,http://transparencia.prefeitura.sp.gov.br/administracao/Paginas/cmbd.aspx,São Paulo,SP,Municipal,Executivo,Interna,
+Dados abertos – e-cidadania,,http://dadosabertos.senado.gov.br/,,,Federal,Legislativo,CKAN,
+Dados abertos da Câmara dos Deputados,,http://www2.camara.leg.br/transparencia/dados-abertos/,,,Federal,Legislativo,Interna,
+FEE dados abertos,,http://dados.fee.tche.br/,,RS,Estadual,Executivo,Interna,
+Dados Abertos TCE-RS,,http://dados.tce.rs.gov.br/,,RS,Estadual,Legislativo,CKAN,
+Dados Abertos MPRS,,http://dados.mprs.mp.br/,,RS,Estadual,,Interna,
+Portal da Transparência Municipal,,http://transparencia.tce.sp.gov.br/,,SP,Municipal,Legislativo,Interna,http://www.portaltransparencia.gov.br/
+Universidade Federal do Rio,,,,,,,,
+Grande do Norte - UFRN,,http://dados.ufrn.br/,,RN,Nacional,Executivo,CKAN,
+Portal dos Dados Abertos TCE/RN,,http://apidadosabertos.tce.rn.gov.br/,,RN,Estadual,Legislativo,Interna,
+Portal de Dados Abertos da Cidade de São Paulo,,http://dados.prefeitura.sp.gov.br/,São Paulo,SP,Municipal,Executivo,CKAN,
