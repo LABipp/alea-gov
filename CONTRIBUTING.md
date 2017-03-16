@@ -15,6 +15,42 @@
 
 * 
 
+## step-by-step
+
+let's review the steps to start contributing:
+
+* Fork the project to your account.
+
+* Choose a path in your computer to store the project, go to it.
+
+* Clone the fork that you have just done to this path using the terminal command
+
+    `git clone https://github.com/YOUR-USERNAME/alea-gov`
+
+* At this point, you should have an exact copy of the latest version of the project on your machine.
+
+Congratulations! Now you have a version of the repository in your machine. If you want to contribute and help to build this incredible project, keep reading!
+
+* do your modifications.
+
+* now you must check if your version is up-to-date with the original repository:
+
+    `git pull https://github.com/labFGV/alea-gov`
+
+* if you have a merge conflict, you must solve it before committing your work.
+
+* now you stage and commit your work:
+
+    ```
+    git add YOUR_FILES
+    git commit -m "YOUR COMMIT MESSAGE"
+    ```
+
+* now you push the changes to your repo:
+    `git push origin master`
+
+* finally, you go to https://github.com/labFGV/alea-gov and complete your pull request.
+
 ## HOW-TOs
 
 * git: google and stackoverflow are your best friends.
@@ -27,4 +63,4 @@
 
 ## contributors
 
-contributors are listed under [contributors.md](CONTRIBUTORS.md).
+contributors are listed under [contributors.md](CONTRIBUTORS.md). only people who have had a pull request accepted are listed as contributors.
